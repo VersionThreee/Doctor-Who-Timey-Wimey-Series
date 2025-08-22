@@ -1,9 +1,11 @@
 # Doctor-Who-Timey-Wimey-Series
-A project looking at the timeline of Doctor Who and assessing whether changes in Doctor affect viewing figures
+_![TV]_(https://cdn.jsdeliver.net/gh/Read Air Date A project looking at the timeline of Doctor Who and assessing whether changes in Doctor affect viewing figures
+
+![TV](https://raw.githubusercontent.com/Readme-Workflows/Readme-icons/main/icons/media/tv.svg)
 
 ## Data
 The dataset contains all seasons from the 2005 relaunch and the 2023 reboot. For ease I've not called the two new ones 1 and 2, I've continued with 15 and 16
-Specials have been included, including the four between seasons - these have been added to Season 4's episodes
+Specials have been included - Christmas specials have been named episode zero of the following season, any that came between seasons (Eve of the Daleks, for example) have been attached to the season prior
 
 |  Column Name   | Description                                  |
 |----------------|----------------------------------------------|
