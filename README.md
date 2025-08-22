@@ -11,7 +11,7 @@ Specials have been included - Christmas specials have been named episode zero of
 |----------------|----------------------------------------------|
 |  Season        |  Season of the show                          |
 |  Episode       |  The episode of each season                  |
-|  Season        |  A combination of season and episode         |
+|  Episode ID    |  A unique identifier of season and episode   |
 |  Episode Title |  The title of the episode                    |
 |  Written by    |  Who wrote the episode                       |
 |  Release Date  |  The date it aired on BBC                    |
