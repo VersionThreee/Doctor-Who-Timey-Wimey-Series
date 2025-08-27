@@ -53,5 +53,6 @@ Specials have been included - Christmas specials have been named episode zero of
 - Linear regression to determine the validity of the hypothesis
 - Both conducted in Python
 
-## Licence
-MIT licence applied
+
+## License
+MIT license applied
