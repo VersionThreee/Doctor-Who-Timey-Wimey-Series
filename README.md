@@ -11,7 +11,9 @@ Changes in Doctor will result in a change in viewing figures of 1m or more
 Episode data was pulled from Wikipedia and Rating Graph
 
 https://en.wikipedia.org/wiki/List_of_Doctor_Who_episodes_(2005%E2%80%93present)
+
 https://www.ratingraph.com/tv-shows/doctor-who-ratings-20291/ (2005 - 2022)
+
 https://www.ratingraph.com/tv-shows/doctor-who-ratings-115139/ (2023 +)
 
 
