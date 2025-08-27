@@ -1,7 +1,8 @@
 # Doctor-Who-Timey-Wimey-Series
-_![TV]_(https://cdn.jsdeliver.net/gh/Read Air Date A project looking at the timeline of Doctor Who and assessing whether changes in Doctor affect viewing figures
+A project looking at the timeline of Doctor Who and assessing whether changes in Doctor affect viewing figures.
 
-![TV](https://raw.githubusercontent.com/Readme-Workflows/Readme-icons/main/icons/media/tv.svg)
+##Hypothesis
+Changes in Doctor will result in a change in viewing figures of 1m or more
 
 ## Data
 The dataset contains all seasons from the 2005 relaunch and the 2023 reboot. For ease I've not called the two new ones 1 and 2, I've continued with 15 and 16
@@ -35,8 +36,9 @@ Specials have been included - Christmas specials have been named episode zero of
 |  15 |  Ncuti Gatwa              |
 
 
-## Features
-- Time Series Analysis
+## Analysis
+- Time Series Analysis of the twenty seasons with trends and forecast
+- Linear regression to determine 
 
 ## Tech
 - Python
